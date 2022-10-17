@@ -14,7 +14,7 @@ https://github.com/Gustavo12386/Repositorio_djangonext-backend-.git
 
 entrar na pasta do projeto:
 
-- cd Api_Drf
+- cd django
 
 executar o projeto:
 
