@@ -1,7 +1,7 @@
-# Repositorio_djangonext(backend)
+# Repositorio_Semana_React_Python(backend)
 
  ## Sobre
- Api do projeto djangonext feita com Django rest Framework
+ Api do projeto Semana React Python feita com Django rest Framework
  
  ## Como executar o projeto
  Pré-requisitos:
